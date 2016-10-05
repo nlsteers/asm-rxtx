@@ -1,0 +1,20 @@
+﻿Build started 03/12/2010 17:23:23.
+     1>Project "E:\Uni\Systems Architecture\SystemsArchitecture\Reciever\Reciever.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Receiver.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Receiver.unsuccessfulbuild".
+         Touching "Debug\Receiver.lastbuildstate".
+     1>Done Building Project "E:\Uni\Systems Architecture\SystemsArchitecture\Reciever\Reciever.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
